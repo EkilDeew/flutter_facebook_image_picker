@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_facebook_image_picker/debounce.dart';
 import 'package:flutter_facebook_image_picker/model/photo.dart';
-import 'package:throttle_debounce/throttle_debounce.dart';
 
 class PhotoGrid extends StatefulWidget {
   final List<Photo> _photos;

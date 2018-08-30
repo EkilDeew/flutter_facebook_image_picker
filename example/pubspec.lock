@@ -82,7 +82,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "0.0.11"
+    version: "0.0.12"
   flutter_facebook_login:
     dependency: "direct main"
     description:
@@ -338,13 +338,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.37"
-  throttle_debounce:
-    dependency: transitive
-    description:
-      name: throttle_debounce
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.2+1"
   typed_data:
     dependency: transitive
     description:

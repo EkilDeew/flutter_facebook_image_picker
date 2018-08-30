@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_facebook_image_picker/debounce.dart';
 import 'package:flutter_facebook_image_picker/model/album.dart';
-import 'package:throttle_debounce/throttle_debounce.dart';
 
 class AlbumGrid extends StatefulWidget {
   final List<Album> _albums;
