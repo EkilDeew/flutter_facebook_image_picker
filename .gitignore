@@ -3,6 +3,7 @@
 
 .packages
 .pub/
+screenshots
 
 build/
 ios/.generated/

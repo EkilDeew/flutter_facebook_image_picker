@@ -4,6 +4,8 @@
 
 [![pub package](https://img.shields.io/pub/v/flutter_facebook_image_picker.svg)](https://pub.dartlang.org/packages/flutter_facebook_image_picker)
 
+![Flutter Facebook Image Picker](https://thumbs.gfycat.com/HonestUnrealisticBangeltiger-size_restricted.gif)
+
 
 ## Getting started
 
@@ -13,9 +15,9 @@ This plugins displays a gallery with user's Facebook Albums and Photos, based on
 ## TODO
 
 - [ ] Improve docs
-- [ ] Add screenshots
+- [x] Add screenshots
 - [ ] Min/Max option
-- [ ] Image loading indicators
+- [x] Image loading indicators
 - [ ] Custom background colors
 
 ## License

@@ -1,6 +1,6 @@
 name: flutter_facebook_image_picker
 description: Flutter plugin that allows you to display Facebook multi image picker on iOS and Android.
-version: 0.0.12
+version: 0.0.13
 author: Radoslav Vitanov <radoslav.vitanov@icloud.com>
 homepage: https://github.com/Sh1d0w/flutter_facebook_image_picker
 
