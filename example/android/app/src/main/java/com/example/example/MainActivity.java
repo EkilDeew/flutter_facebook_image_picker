@@ -1,4 +1,4 @@
-package com.example.example;
+package com.vitanov.flutter_facebook_image_picker;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

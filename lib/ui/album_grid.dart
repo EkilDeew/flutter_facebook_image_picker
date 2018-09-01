@@ -61,10 +61,14 @@ class AlbumGridState extends State<AlbumGrid> {
             alignment: Alignment.topCenter,
             child: ClipRRect(
               borderRadius: new BorderRadius.circular(8.0),
-              child: Image.network(
-                album.coverPhoto,
-                height: 180.00,
+              child: FadeInImage(
+                image: NetworkImage(album.coverPhoto),
+                placeholder: AssetImage(
+                  'assets/loading.gif',
+                  package: 'flutter_facebook_image_picker',
+                ),
                 fit: BoxFit.cover,
+                height: 180.00,
               ),
             ),
           ),

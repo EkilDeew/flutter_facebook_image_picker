@@ -18,6 +18,8 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
+  assets:
+    - assets/loading.gif
 
 environment:
     sdk: ">=2.0.0-dev.28.0 <3.0.0"
